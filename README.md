@@ -1,2 +1,2 @@
 # praticas-java
-Repositorio dedicado ao curso de Java
+Repositorio dedicado a pratica do curso de Java
